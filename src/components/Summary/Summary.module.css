@@ -1,0 +1,19 @@
+.container {
+    text-align : center;
+    padding: 2rem;
+    color: #FF4F5A;
+
+}
+
+
+.summary {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.summary__image img {
+    margin: 2rem;
+    width: 100%;
+    height: auto;
+    border-radius: 2rem;
+}
